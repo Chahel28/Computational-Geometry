@@ -1,0 +1,226 @@
+solid convex_hull
+facet normal -23823.1 271207 -258497
+	outer loop
+		vertex 194.32 602.401 -581.997
+		vertex -91.78 279.032 -894.899
+		vertex -816.344 363.602 -739.395
+	endloop
+endfacet
+facet normal -584957 -399003 -709220
+	outer loop
+		vertex -816.344 363.602 -739.395
+		vertex -112.202 -639.135 -756.03
+		vertex -966.419 -429.895 -169.198
+	endloop
+endfacet
+facet normal 848599 -255028 2.49986e+06
+	outer loop
+		vertex -313.886 544.417 818.849
+		vertex -944.522 -665.832 909.458
+		vertex 976.906 -942.465 228.992
+	endloop
+endfacet
+facet normal 29881.4 129259 -160905
+	outer loop
+		vertex -91.78 279.032 -894.899
+		vertex 194.32 602.401 -581.997
+		vertex 424.679 300.36 -781.855
+	endloop
+endfacet
+facet normal -778174 125786 43310.7
+	outer loop
+		vertex -966.419 -429.895 -169.198
+		vertex -944.522 -665.832 909.458
+		vertex -834.258 124.016 596.66
+	endloop
+endfacet
+facet normal -923544 190294 21741.2
+	outer loop
+		vertex -816.344 363.602 -739.395
+		vertex -966.419 -429.895 -169.198
+		vertex -834.258 124.016 596.66
+	endloop
+endfacet
+facet normal -8464.24 23928.3 260696
+	outer loop
+		vertex -944.522 -665.832 909.458
+		vertex -313.886 544.417 818.849
+		vertex -781.66 60.101 848.115
+	endloop
+endfacet
+facet normal -178619 44179 48591.9
+	outer loop
+		vertex -834.258 124.016 596.66
+		vertex -944.522 -665.832 909.458
+		vertex -781.66 60.101 848.115
+	endloop
+endfacet
+facet normal -144761 -334132 -91581.8
+	outer loop
+		vertex -966.419 -429.895 -169.198
+		vertex -112.202 -639.135 -756.03
+		vertex -553.458 -638.261 -61.739
+	endloop
+endfacet
+facet normal -287426 -1.59998e+06 -161157
+	outer loop
+		vertex 976.906 -942.465 228.992
+		vertex -944.522 -665.832 909.458
+		vertex -553.458 -638.261 -61.739
+	endloop
+endfacet
+facet normal -211460 -1.1908e+06 -132894
+	outer loop
+		vertex -112.202 -639.135 -756.03
+		vertex 976.906 -942.465 228.992
+		vertex -553.458 -638.261 -61.739
+	endloop
+endfacet
+facet normal -199402 -443090 -92870.2
+	outer loop
+		vertex -944.522 -665.832 909.458
+		vertex -966.419 -429.895 -169.198
+		vertex -553.458 -638.261 -61.739
+	endloop
+endfacet
+facet normal 850821 215733 1.31805e+06
+	outer loop
+		vertex -313.886 544.417 818.849
+		vertex 976.906 -942.465 228.992
+		vertex 957.305 101.234 70.817
+	endloop
+endfacet
+facet normal 858436 -67534.9 -551998
+	outer loop
+		vertex 976.906 -942.465 228.992
+		vertex 424.679 300.36 -781.855
+		vertex 957.305 101.234 70.817
+	endloop
+endfacet
+facet normal -105830 -50854.9 -465454
+	outer loop
+		vertex -816.344 363.602 -739.395
+		vertex -91.78 279.032 -894.899
+		vertex -24.512 -371.211 -839.149
+	endloop
+endfacet
+facet normal -87803.4 -57068.9 -276587
+	outer loop
+		vertex -112.202 -639.135 -756.03
+		vertex -816.344 363.602 -739.395
+		vertex -24.512 -371.211 -839.149
+	endloop
+endfacet
+facet normal 74695.1 -21188.3 -337259
+	outer loop
+		vertex -91.78 279.032 -894.899
+		vertex 424.679 300.36 -781.855
+		vertex -24.512 -371.211 -839.149
+	endloop
+endfacet
+facet normal 207458 223023 -97930.6
+	outer loop
+		vertex 424.679 300.36 -781.855
+		vertex 194.32 602.401 -581.997
+		vertex 438.239 707.702 174.534
+	endloop
+endfacet
+facet normal 407692 256434 540895
+	outer loop
+		vertex -313.886 544.417 818.849
+		vertex 957.305 101.234 70.817
+		vertex 438.239 707.702 174.534
+	endloop
+endfacet
+facet normal 537771 497835 -219661
+	outer loop
+		vertex 957.305 101.234 70.817
+		vertex 424.679 300.36 -781.855
+		vertex 438.239 707.702 174.534
+	endloop
+endfacet
+facet normal 49581.3 -238129 -128151
+	outer loop
+		vertex 976.906 -942.465 228.992
+		vertex -112.202 -639.135 -756.03
+		vertex 564.022 -709.806 -363.079
+	endloop
+endfacet
+facet normal 500658 -90405 -384662
+	outer loop
+		vertex 424.679 300.36 -781.855
+		vertex 976.906 -942.465 228.992
+		vertex 564.022 -709.806 -363.079
+	endloop
+endfacet
+facet normal 99406.9 -90664.9 -187374
+	outer loop
+		vertex -112.202 -639.135 -756.03
+		vertex -24.512 -371.211 -839.149
+		vertex 564.022 -709.806 -363.079
+	endloop
+endfacet
+facet normal 339114 -180127 -547336
+	outer loop
+		vertex -24.512 -371.211 -839.149
+		vertex 424.679 300.36 -781.855
+		vertex 564.022 -709.806 -363.079
+	endloop
+endfacet
+facet normal -125153 725548 -297157
+	outer loop
+		vertex 194.32 602.401 -581.997
+		vertex -816.344 363.602 -739.395
+		vertex 180.032 893.047 133.67
+	endloop
+endfacet
+facet normal 144522 185374 -72398.6
+	outer loop
+		vertex 438.239 707.702 174.534
+		vertex 194.32 602.401 -581.997
+		vertex 180.032 893.047 133.67
+	endloop
+endfacet
+facet normal 112748 197101 181564
+	outer loop
+		vertex -313.886 544.417 818.849
+		vertex 438.239 707.702 174.534
+		vertex 180.032 893.047 133.67
+	endloop
+endfacet
+facet normal -617431 479718 77746.1
+	outer loop
+		vertex -816.344 363.602 -739.395
+		vertex -834.258 124.016 596.66
+		vertex -476.834 564.326 718.339
+	endloop
+endfacet
+facet normal -48095.9 51784.8 88231.2
+	outer loop
+		vertex -781.66 60.101 848.115
+		vertex -313.886 544.417 818.849
+		vertex -476.834 564.326 718.339
+	endloop
+endfacet
+facet normal -118495 83476 46004.2
+	outer loop
+		vertex -834.258 124.016 596.66
+		vertex -781.66 60.101 848.115
+		vertex -476.834 564.326 718.339
+	endloop
+endfacet
+facet normal -596545 1.15604e+06 -20244.7
+	outer loop
+		vertex 180.032 893.047 133.67
+		vertex -816.344 363.602 -739.395
+		vertex -476.834 564.326 718.339
+	endloop
+endfacet
+facet normal -21399.6 161292 66642
+	outer loop
+		vertex -313.886 544.417 818.849
+		vertex 180.032 893.047 133.67
+		vertex -476.834 564.326 718.339
+	endloop
+endfacet
+endsolid convex_hull
